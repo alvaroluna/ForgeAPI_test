@@ -1,0 +1,22 @@
+{
+  "name": "forgeapi_test",
+  "version": "1.0.0",
+  "description": "Testing Forge API in node js.",
+  "main": "Forge_engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroluna/ForgeAPI_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaroluna/ForgeAPI_test/issues"
+  },
+  "homepage": "https://github.com/alvaroluna/ForgeAPI_test#readme",
+  "dependencies": {
+    "forge-apis": "^0.7.3"
+  }
+}
